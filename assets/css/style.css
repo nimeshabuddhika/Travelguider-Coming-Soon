@@ -61,6 +61,8 @@ a:focus {
 
 body{
     background-image: url("../images/back.jpg");
+    background-repeat: repeat-y, no-repeat;
+    background-attachment: fixed, fixed;
 }
 
 .section-style {
